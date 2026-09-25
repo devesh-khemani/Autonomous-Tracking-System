@@ -1,6 +1,7 @@
 # Electro-Optical Tracking System — Design Logbook
 
 **Status: 🚧 In Progress**
+**[View Complete Design Logbook (PDF)](./OneNote_merged.pdf)**
 
 This logbook documents the design, simulation, and build process for a 4-channel
 electro-optical target tracking system, developed independently between June and
