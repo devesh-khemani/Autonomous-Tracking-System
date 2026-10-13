@@ -1,11 +1,11 @@
 # Electro-Optical Tracking System — Design Logbook
 
-**Status: Project Finished But Logbook In Progress**
+**Status: PROJECT COMPLETED But Logbook In Progress**
 **[View Complete Design Logbook (PDF)](./OneNote_merged.pdf)**
 
 This logbook documents the design, simulation, and build process for a 4-channel
 electro-optical target tracking system, developed independently between June and
-September 2024.
+September 2026.
 
 ## Currently documented in this logbook:
 - Analog front-end design and LTspice simulation (transimpedance amplifier +
@@ -15,7 +15,7 @@ September 2024.
 - Embedded firmware development in C++ on STM32F4 (DMA-driven ADC sampling,
   hardware timer interrupts, real-time control loop)
 
-## Still to be added:
+## Content to be added:
 - Dual-axis PID control loop tuning and IMU feed-forward integration
 - Software-in-the-loop simulation results and regression test suite
 - 2-axis pan-tilt gimbal mechanical design (Fusion 360) and integration
